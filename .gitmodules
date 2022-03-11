@@ -1,0 +1,3 @@
+[submodule "coding-events-demo"]
+	path = coding-events-demo
+	url = https://github.com/melvinSparkMan/AbstractEntity-Studio.git
